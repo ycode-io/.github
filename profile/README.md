@@ -7,7 +7,7 @@
 ```bash
 > ls members/
 
-Owen(Founder)
+Owen L. (Founder)
 
 > cat focus.txt
 
